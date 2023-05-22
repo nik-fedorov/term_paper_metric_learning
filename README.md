@@ -8,3 +8,4 @@ All experiments are made on CUB-200-2011 dataset which contains 11788 images of 
 
 Example of code for model fine-tuning which I used for making experiments you can find in **tp3-cub.ipynb** notebook. 
 
+All experiments were logged in [wandb](https://wandb.ai/nik-fedorov/TP3).
