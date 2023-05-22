@@ -6,3 +6,5 @@ All code of experiments can be found here. This code uses Python language, [PyTo
 
 All experiments are made on CUB-200-2011 dataset which contains 11788 images of 200 subcategories belonging to birds (5994 for training and 5794 for testing). 
 
+Example of code for model fine-tuning which I used for making experiments you can find in **tp3-cub.ipynb** notebook. 
+
